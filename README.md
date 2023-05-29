@@ -1,2 +1,2 @@
 # Aplikasi-Perpustakaan
-Masuh dalam pengembangan
+Masih dalam pengembangan
